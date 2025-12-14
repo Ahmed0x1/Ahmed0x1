@@ -11,7 +11,8 @@ Building secure, scalable web solutions & exploring vulnerabilities to make the 
 ## 📂 Featured Projects
 - [Laravel-API](https://github.com/Ahmed0x1/khadijaStore) – Laravel projects Api (for instance)
 - [Python-Encryption&Decryption](https://github.com/Ahmed0x1/The-Cipher-Wheel) – Encrypt your messages!!
-- ![PortSwigger-Progress](https://github.com/user-attachments/assets/b7b4a9b0-b8ec-42e0-b3a4-b84cca95d1ca) – My progress at Portswigger
+- My progress at Portswigger:
+    ![PortSwigger-Progress](https://github.com/user-attachments/assets/b7b4a9b0-b8ec-42e0-b3a4-b84cca95d1ca)
 
 ## 📊 GitHub Stats
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed0x1&show_icons=true&theme=radical)
