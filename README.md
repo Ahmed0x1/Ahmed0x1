@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**Ahmed0x1/Ahmed0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Pentester & Developer | Laravel • PHP • Python  
+Building secure, scalable web solutions & exploring vulnerabilities to make the web safer.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Web Pentesting: SQLi, XSS, CSRF, RCE
+- Development: Laravel, PHP, Python
+- Tools: Burp Suite, Nmap, Metasploit, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Secure-Laravel-App](#) – Laravel project with built-in security modules
+- [Python-AutoScanner](#) – Automated vulnerability scanner
+- [Pentest-Labs](#) – Writeups & scripts from my security practice
+
+## 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed0x1&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+- Advanced exploit development
+
+## 📫 Connect
+[LinkedIn](www.linkedin.com/in/ahmed-al-fares) • [Email](ahmedfarestech@gmail.com)
